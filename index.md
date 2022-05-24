@@ -1,12 +1,37 @@
-## Welcome to GitHub Pages
+## Yanzheng DING
 
-You can use the [editor on GitHub](https://github.com/YanzhengDING/YanzhengDING.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
+## 2018-2019
+Sorbonne University Paris 6, Master 2, MSROE (Top 5%)
+(Earthquake engineering and risk assessment, Non-linear behavior, Mechanics of rocks and underground structures, Multiphysics and multi-scale modeling of geomaterials, Experimental methods etc..)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 2016-2018
+University of Lille, Licence 3 et Master 1, Civil Engineering (Top 10%)
+(Geotechnics, Continuum mechanics, Machine Learning, Dynamics of structures, Mechanics of materials etc..）
 
-### Markdown
+## 2014-2016
+Hohai University, Licence 1 et Licence 2, Water Supply And Drainage
+(Numerical analysis, Mechanics of structures, Reinforced concrete, Mechanics of fluids, Mechanics of materials etc..)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### PROFESSIONAL CAREER
+## 2019 
+Ecole CentraleSupelec, Paris, France
+## 2018 
+Ecole des Ponts ParisTech, Champs-sur-Marne, France
+Sorbonne Université Paris 6, Paris, France
+## 2017
+Shandong University, Jinan, China, Geotechnical and Structural Research Center
+Shanghai Construction Group, Shanghai, China
+
+### Capability 
+## Software 
+Matlab, Python, FLAC3D, AutoCAD
+## Languages
+Enlish, French, Chinese
+## Extracurricular activities 
+Vice President of Union of Searchers and Students of Lille
+Class leader of studying abroad in France Hohai University 2015
+tennis, travel, International history, violin
 
 ```markdown
 Syntax highlighted code block
@@ -34,4 +59,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+yanzhengdyz@gmail.com
++33 6 46 51 66 00 
